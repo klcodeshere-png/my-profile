@@ -24,6 +24,6 @@ Build hands-on projects on both software and hardware applications
 Strengthen core programming and technical problem solving skills
 
 # Connect with Me
-[LinkedIn]:(https://www.linkedin.com/in/klmadhav)
+LinkedIn: https://www.linkedin.com/in/klmadhav
 Gmail: klmadhav2007@gmail.com
   
